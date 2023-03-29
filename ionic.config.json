@@ -1,0 +1,7 @@
+{
+  "name": "solidarity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
